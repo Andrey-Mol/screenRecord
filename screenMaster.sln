@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33209.295
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "screenMaster", "screenMaster\screenMaster.csproj", "{AA18ACD4-67C1-4B7A-B39A-AD5A772F8516}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "screen", "screen\screen.csproj", "{DAFD5E88-28A6-40E5-ACC1-DB0AB1C5DB5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA18ACD4-67C1-4B7A-B39A-AD5A772F8516}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA18ACD4-67C1-4B7A-B39A-AD5A772F8516}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA18ACD4-67C1-4B7A-B39A-AD5A772F8516}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA18ACD4-67C1-4B7A-B39A-AD5A772F8516}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAFD5E88-28A6-40E5-ACC1-DB0AB1C5DB5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAFD5E88-28A6-40E5-ACC1-DB0AB1C5DB5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAFD5E88-28A6-40E5-ACC1-DB0AB1C5DB5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAFD5E88-28A6-40E5-ACC1-DB0AB1C5DB5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BAD446A-C9F7-400C-9A81-100EF0F3BB80}
+	EndGlobalSection
+EndGlobal

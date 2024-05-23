@@ -1,0 +1,15 @@
+G:\pro\screenMaster\screen\obj\Debug\net7.0\screen.csproj.AssemblyReference.cache
+G:\pro\screenMaster\screen\obj\Debug\net7.0\screen.GeneratedMSBuildEditorConfig.editorconfig
+G:\pro\screenMaster\screen\obj\Debug\net7.0\screen.AssemblyInfoInputs.cache
+G:\pro\screenMaster\screen\obj\Debug\net7.0\screen.AssemblyInfo.cs
+G:\pro\screenMaster\screen\obj\Debug\net7.0\screen.csproj.CoreCompileInputs.cache
+G:\pro\screenMaster\screen\obj\Debug\net7.0\screen.genruntimeconfig.cache
+G:\pro\screenMaster\screen\bin\Debug\net7.0\svc.exe
+G:\pro\screenMaster\screen\bin\Debug\net7.0\svc.deps.json
+G:\pro\screenMaster\screen\bin\Debug\net7.0\svc.runtimeconfig.json
+G:\pro\screenMaster\screen\bin\Debug\net7.0\svc.dll
+G:\pro\screenMaster\screen\bin\Debug\net7.0\svc.pdb
+G:\pro\screenMaster\screen\obj\Debug\net7.0\svc.dll
+G:\pro\screenMaster\screen\obj\Debug\net7.0\refint\svc.dll
+G:\pro\screenMaster\screen\obj\Debug\net7.0\svc.pdb
+G:\pro\screenMaster\screen\obj\Debug\net7.0\ref\svc.dll
